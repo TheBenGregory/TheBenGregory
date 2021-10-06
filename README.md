@@ -1,6 +1,7 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, My name is Ben!
 
-![Twitter Follow](https://img.shields.io/twitter/follow/bengregorytn?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/bengregorytn?label=Follow%20Me%21&style=social)
+![GitHub followers](https://img.shields.io/github/followers/TheBenGregory?label=Follow%20Me%21&style=social)
 
 <!--
 **TheBenGregory/TheBenGregory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
