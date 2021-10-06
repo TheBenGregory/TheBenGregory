@@ -1,5 +1,6 @@
-�### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Catalin Pit!
-![Twitter Follow](https://img.shields.io/twitter/follow/bengregorytn?label=Follow%20Me&style=social)
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, My name is Ben!
+
+[Twitter Follow](https://img.shields.io/twitter/follow/bengregorytn?label=Follow%20Me&style=social)
 
 <!--
 **TheBenGregory/TheBenGregory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
