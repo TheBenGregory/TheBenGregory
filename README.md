@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, My name is Ben!
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> my name is Ben!
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/bengregorytn?label=Follow%20Me%21&style=social)
 ![GitHub followers](https://img.shields.io/github/followers/TheBenGregory?label=Follow%20Me%21&style=social)
@@ -6,7 +6,7 @@
 
 I am a full-stack developer enrolled in Nashville Software School Cohort #50 and have been building my skills in JavaScript, React, and HTML. I am currently learning Python and will soon move into Django. I live in Middle TN and enjoy being outdoors, hiking, and exploring national parks.
 
-I have long been interested in computers and coding and over the years have built a handful of webpages for myself. In my free time I tinker with my 3d printer work on personal dev projects. 
+I have long been interested in computers and coding and over the years have built a handful of webpages for myself. In my free time I tinker with my 3d printer and work on personal dev projects. 
 
 ---
 
@@ -20,7 +20,7 @@ I have long been interested in computers and coding and over the years have buil
 
 ## &#x1f4c8; My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheBenGregory&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheBenGregory&hide=java&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=TheBenGregory&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
