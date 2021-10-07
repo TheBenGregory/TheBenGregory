@@ -1,6 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> my name is Ben!
 
-<img src="https://giphy.com/embed/U4A53Y3L6UHqSnAzZX" width="50" height="25" frameBorder="0" class="giphy-embed">
+<img src="https://giphy.com/embed/U4A53Y3L6UHqSnAzZX" width="50" height="25">
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/bengregorytn?label=Follow%20Me%21&style=social)
 ![GitHub followers](https://img.shields.io/github/followers/TheBenGregory?label=Follow%20Me%21&style=social)
