@@ -1,6 +1,6 @@
 
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> my name is Ben!
-<img src="https://media3.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif?cid=ecf05e47zrqzrfde35f67jfkvbjzri6zh6dd7s2mxfmos0xq&rid=giphy.gif&ct=s" alt="My Project GIF" width="130" height="120"> <img src="https://giphy.com/gifs/soeiendom-soe-stor-oslo-eiendom-jIFakX2iDNzpDAToa7" alt="My Project GIF" width="130" height="120">
+<img src="https://media3.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif?cid=ecf05e47zrqzrfde35f67jfkvbjzri6zh6dd7s2mxfmos0xq&rid=giphy.gif&ct=s" alt="My Project GIF" width="130" height="120"> <img src="https://giphy.com/gifs/soeiendom-soe-stor-oslo-eiendom-jIFakX2iDNzpDAToa7.gif" alt="My Project GIF" width="130" height="120">
 
 
 
