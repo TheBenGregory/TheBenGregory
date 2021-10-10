@@ -1,4 +1,6 @@
-![Visitor Count](https://profile-counter.glitch.me/{TheBenGregory}/count.svg)
+[![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev)
+
+
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> my name is Ben!
 
 
