@@ -4,7 +4,7 @@
 
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> my name is Ben!
 
-  <b>Connect with me here</b>&nbsp; 👉 &nbsp;<a href="https://www.linkedin.com/in/bgmakesithappen/"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/linkedin/linkedin-original.svg" width="25" height="25" /></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://twitter.com/BenGregoryTN"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/twitter/twitter-original.svg" width="25" height="25" /></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.github.com/TheBenGregory"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/github/github-original.svg" width="25" height="25" /></a> 
+  <b>Connect with me here</b>&nbsp; 👉 &nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/bgmakesithappen/"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/linkedin/linkedin-original.svg" width="25" height="25" /></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://twitter.com/BenGregoryTN"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/twitter/twitter-original.svg" width="25" height="25" /></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.github.com/TheBenGregory"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/github/github-original.svg" width="25" height="25" /></a> 
                             
 
 
@@ -18,8 +18,8 @@ I have long been interested in computers and coding and over the years have buil
 ---
 
 🧰 Toolbox
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/react/react-original-wordmark.svg" width="50" height="50"/>&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/javascript/javascript-original.svg" width="50" height="50"/>&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/html5/html5-original-wordmark.svg" width="50" height="50"/> &nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/css3/css3-original.svg" width="50" height="50"/>&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/git/git-original.svg" width="50" height="50"/>&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/github/github-original.svg" width="50" height="50"/> 
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/react/react-original-wordmark.svg" width="50" height="50"/>&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/javascript/javascript-original.svg" width="50" height="50"/>&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/html5/html5-original-wordmark.svg" width="50" height="50"/> &nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/css3/css3-original.svg" width="50" height="50"/>&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/git/git-original.svg" width="50" height="50"/>&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/github/github-original.svg" width="50" height="50"/> </p>
 
 ---
 
