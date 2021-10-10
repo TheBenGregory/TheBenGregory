@@ -1,11 +1,12 @@
-[![Visits Badge](https://badges.pufler.dev/visits/TheBenGregory/TheBenGregory)](https://jbgregory.com)
+
 
 
 
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> my name is Ben!
 
-
-
+<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/linkedin/linkedin-original.svg
+" width="20" height="20" href="https://linkedin.com/BGMakesItHappen/> 
+https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/linkedin/linkedin-original.svg
 ![Twitter Follow](https://img.shields.io/twitter/follow/bengregorytn?label=Follow%20Me%21&style=social)
 ![GitHub followers](https://img.shields.io/github/followers/TheBenGregory?label=Follow%20Me%21&style=social)
 ![LinkedIn]((https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/BGMakesItHappen))
@@ -31,6 +32,9 @@ I have long been interested in computers and coding and over the years have buil
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheBenGregory&hide=java,scss&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=TheBenGregory&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Visits Badge](https://badges.pufler.dev/visits/TheBenGregory/TheBenGregory)](https://jbgregory.com)
 
 
 
