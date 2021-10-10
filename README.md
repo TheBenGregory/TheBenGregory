@@ -4,7 +4,7 @@
 
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> my name is Ben!
 
-<a href="https://www.linkedin.com/in/bgmakesithappen/"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/linkedin/linkedin-original.svg" width="25" height="25" /></a><a href="https://twitter.com/BenGregoryTN"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/twitter/twitter-original.svg" width="25" height="25" /></a><a href="https://www.github.com/TheBenGregory"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/github/github-original.svg" width="25" height="25" /></a> 
+<a href="https://www.linkedin.com/in/bgmakesithappen/"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/linkedin/linkedin-original.svg" width="25" height="25" /></a>  <a href="https://twitter.com/BenGregoryTN"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/twitter/twitter-original.svg" width="25" height="25" /></a>  <a href="https://www.github.com/TheBenGregory"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/github/github-original.svg" width="25" height="25" /></a> 
                                
 
 
