@@ -1,4 +1,4 @@
-![Visitor Count](https://profile-counter.github.com/TheBenGregory/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{github.com/TheBenGregory}/count.svg)
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> my name is Ben!
 
 
