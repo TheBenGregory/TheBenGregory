@@ -1,6 +1,6 @@
 
 
-<div style="width:100%;height:0;padding-bottom:73%;position:relative;"><img src="https://giphy.com/embed/QTfX9Ejfra3ZmNxh6B" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></img></div><p><a href="https://giphy.com/stickers/tech-code-coding-QTfX9Ejfra3ZmNxh6B">via GIPHY</a></p>
+<img src="https://media3.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif?cid=ecf05e47zrqzrfde35f67jfkvbjzri6zh6dd7s2mxfmos0xq&rid=giphy.gif&ct=s" alt="My Project GIF" width="500" height="600">
 
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> my name is Ben!
 
