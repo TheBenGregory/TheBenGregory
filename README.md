@@ -10,7 +10,7 @@
 https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/linkedin/linkedin-original.svg
 ![Twitter Follow](https://img.shields.io/twitter/follow/bengregorytn?label=Follow%20Me%21&style=social)
 ![GitHub followers](https://img.shields.io/github/followers/TheBenGregory?label=Follow%20Me%21&style=social)
-![LinkedIn]((https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/BGMakesItHappen))
+
 <!-- [![Linkedin](https://img.shields.io/linkedin) LinkedIn](https://www.linkedin.com/BGMakesItHappen) -->
 
 
