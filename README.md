@@ -1,8 +1,8 @@
 
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> my name is Ben!
 <img src="https://media3.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif?cid=ecf05e47zrqzrfde35f67jfkvbjzri6zh6dd7s2mxfmos0xq&rid=giphy.gif&ct=s" alt="My Project GIF" width="130" height="120">
 
-### my name is Ben!
+
 
  ## <b>Connect with me here</b>&nbsp; 👉 &nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/bgmakesithappen/"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/linkedin/linkedin-original.svg" width="25" height="25" /></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://twitter.com/BenGregoryTN"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/twitter/twitter-original.svg" width="25" height="25" /></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.github.com/TheBenGregory"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/github/github-original.svg" width="25" height="25" /></a> 
                             
