@@ -1,4 +1,5 @@
-[![Visits Badge](https://badges.pufler.dev/visits/TheBenGregory/git-badges)](https://github.com/TheBenGregory)
+[![Visits Badge](https://badges.pufler.dev/visits/TheBenGregory/TheBenGregory)](https://jbgregory.com)
+
 
 
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> my name is Ben!
