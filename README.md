@@ -30,21 +30,14 @@ I have long been interested in computers and coding and over the years have buil
 
 &#x1f4c8; My GitHub Stats
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheBenGregory&hide=java,scss&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-       
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=TheBenGregory&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-         
-           
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheBenGregory&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheBenGregory&repo=convoychat" />
-</a>
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheBenGregory&hide=java,scss&theme=radical" />
+ </a>
 
-
+<a href="https://github.com/anuraghazra/github-readme-stats">       
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=TheBenGregory&theme=radical" /> 
+</a>         
+           
 
 [![Visits Badge](https://badges.pufler.dev/visits/TheBenGregory/TheBenGregory)](https://jbgregory.com)
 
