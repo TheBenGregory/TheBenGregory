@@ -37,12 +37,13 @@ I have long been interested in computers and coding and over the years have buil
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=TheBenGregory&theme=radical)](https://github.com/TheBenGregory/github-readme-stats)
            </div>
            
-<a href="https://github.com/TheBenGregory/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheBenGregory&repo=github-readme-stats" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheBenGregory&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/TheBenGregory/github-readme-stats">
-  <img align="center" src="(https://github-readme-stats.vercel.app/api?username=TheBenGregory&theme=radical" />
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheBenGregory&repo=convoychat" />
 </a>
+
 
 
 [![Visits Badge](https://badges.pufler.dev/visits/TheBenGregory/TheBenGregory)](https://jbgregory.com)
