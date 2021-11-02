@@ -34,8 +34,16 @@ I have long been interested in computers and coding and over the years have buil
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheBenGregory&hide=java,scss&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 <div align="right">           
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=TheBenGregory&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=TheBenGregory&theme=radical)](https://github.com/TheBenGregory/github-readme-stats)
            </div>
+           
+<a href="https://github.com/TheBenGregory/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheBenGregory&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/TheBenGregory/github-readme-stats">
+  <img align="center" src="(https://github-readme-stats.vercel.app/api?username=TheBenGregory&theme=radical" />
+</a>
+
 
 [![Visits Badge](https://badges.pufler.dev/visits/TheBenGregory/TheBenGregory)](https://jbgregory.com)
 
