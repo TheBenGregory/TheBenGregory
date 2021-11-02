@@ -37,7 +37,7 @@ I have long been interested in computers and coding and over the years have buil
 <a href="https://github.com/anuraghazra/github-readme-stats">       
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=TheBenGregory&theme=radical" /> 
 </a>         
-           
+---           
 <br><br>
 <a href="https://jbgregory.com">
  <img align="center" src="https://badges.pufler.dev/visits/TheBenGregory/TheBenGregory" />
