@@ -1,6 +1,7 @@
 
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> my name is Ben!
-<img align="right" src="https://media3.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif?cid=ecf05e47zrqzrfde35f67jfkvbjzri6zh6dd7s2mxfmos0xq&rid=giphy.gif&ct=s" alt="My Project GIF" width="130" height="120"> <img src="https://media4.giphy.com/media/z8jK3wZUCvZJcCx7DP/giphy.gif?cid=790b7611bf2938ae8f877b36e62b3fd7099e5527ae9ae34d&rid=giphy.gif&ct=s" alt="My Project GIF" width="400" height="120">
+<img align="right" src="https://media3.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif?cid=ecf05e47zrqzrfde35f67jfkvbjzri6zh6dd7s2mxfmos0xq&rid=giphy.gif&ct=s" alt="My Project GIF" width="230" height="220"> 
+<!-- <img src="https://media4.giphy.com/media/z8jK3wZUCvZJcCx7DP/giphy.gif?cid=790b7611bf2938ae8f877b36e62b3fd7099e5527ae9ae34d&rid=giphy.gif&ct=s" alt="My Project GIF" width="400" height="120"> -->
 
 
 
@@ -11,9 +12,9 @@
 <!-- [![Linkedin](https://img.shields.io/linkedin) LinkedIn](https://www.linkedin.com/BGMakesItHappen) -->
 
 
-<div align="left">I am a full-stack developer enrolled in Nashville Software School Cohort #50 and have been building my skills in JavaScript, React, and HTML. I am currently learning Python and will soon move into Django. I live in Middle TN and enjoy being outdoors, hiking, and exploring national parks.
+<p align="left">I am a full-stack developer enrolled in Nashville Software School Cohort #50 and have been building my skills in JavaScript, React, and HTML. I am currently learning Python and will soon move into Django. I live in Middle TN and enjoy being outdoors, hiking, and exploring national parks.
 
-I have long been interested in computers and coding and over the years have built a handful of webpages for myself. In my free time I tinker with my 3d printer and work on personal dev projects.</div>
+I have long been interested in computers and coding and over the years have built a handful of webpages for myself. In my free time I tinker with my 3d printer and work on personal dev projects.</p>
 
 ---
 
