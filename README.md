@@ -30,12 +30,12 @@ I have long been interested in computers and coding and over the years have buil
 
 &#x1f4c8; My GitHub Stats
 
-<div align="left">
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheBenGregory&hide=java,scss&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-</div>
-<div align="right">           
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=TheBenGregory&theme=radical)](https://github.com/TheBenGregory/github-readme-stats)
-           </div>
+
+       
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=TheBenGregory&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+         
            
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheBenGregory&repo=github-readme-stats" />
