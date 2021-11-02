@@ -39,9 +39,11 @@ I have long been interested in computers and coding and over the years have buil
 </a>         
 ---           
 <br><br>
-<a href="https://jbgregory.com">
+<h5>
+<a align="center" href="https://jbgregory.com">
  <img align="center" src="https://badges.pufler.dev/visits/TheBenGregory/TheBenGregory" />
  </a>
+ </h5>
 
 
 
