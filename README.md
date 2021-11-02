@@ -27,10 +27,11 @@ I have long been interested in computers and coding and over the years have buil
 
 ---
 <h1 align="right">
-## &#x1f4c8; My GitHub Stats
+&#x1f4c8; My GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheBenGregory&hide=java,scss&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+</h1>
+<h1 align="left">
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=TheBenGregory&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 </h1>
 
