@@ -31,17 +31,17 @@ I have long been interested in computers and coding and over the years have buil
 &#x1f4c8; My GitHub Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheBenGregory&hide=java,scss&theme=radical" />
+ <img align="center" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheBenGregory&hide=java,scss&theme=radical" />
  </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">       
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=TheBenGregory&theme=radical" /> 
+<img align="right" height="200" src="https://github-readme-stats.vercel.app/api?username=TheBenGregory&theme=radical" /> 
 </a> 
 
 ---      
 
 <br><br>
-<h5>
+<h5 align="center">
 <a align="center" href="https://jbgregory.com">
  <img align="center" src="https://badges.pufler.dev/visits/TheBenGregory/TheBenGregory" />
  </a>
