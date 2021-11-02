@@ -38,8 +38,11 @@ I have long been interested in computers and coding and over the years have buil
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=TheBenGregory&theme=radical" /> 
 </a>         
            
+<br><br>
+<a href="https://jbgregory.com">
+ <img align="center" src="https://badges.pufler.dev/visits/TheBenGregory/TheBenGregory" />
+ </a>
 
-[![Visits Badge](https://badges.pufler.dev/visits/TheBenGregory/TheBenGregory)](https://jbgregory.com)
 
 
 
