@@ -35,9 +35,11 @@ I have long been interested in computers and coding and over the years have buil
  </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">       
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=TheBenGregory&theme=radical" /> 
-</a>         
----           
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=TheBenGregory&theme=radical" /> 
+</a> 
+
+---      
+
 <br><br>
 <h5>
 <a align="center" href="https://jbgregory.com">
