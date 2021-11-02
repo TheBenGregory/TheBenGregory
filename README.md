@@ -12,7 +12,7 @@
 <!-- [![Linkedin](https://img.shields.io/linkedin) LinkedIn](https://www.linkedin.com/BGMakesItHappen) -->
 
 
-<p align="left">I am a full-stack developer enrolled in Nashville Software School Cohort #50 and have been building my skills in JavaScript, React, and HTML. I am currently learning Python and will soon move into Django. I live in Middle TN and enjoy being outdoors, hiking, and exploring national parks.
+<p align="left">I am a full-stack developer enrolled in Nashville Software School Cohort #50 and have been building my skills in JavaScript, React, and HTML. I am currently learning Python and Django. I live in Middle TN and enjoy being outdoors, hiking, and exploring national parks.
 
 I have long been interested in computers and coding and over the years have built a handful of webpages for myself. In my free time I tinker with my 3d printer and work on personal dev projects.</p>
 
