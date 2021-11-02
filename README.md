@@ -43,7 +43,7 @@ I have long been interested in computers and coding and over the years have buil
 <br><br>
 <h5 align="center">
 
- <img align="center" src="https://media.giphy.com/media/M9l0s4vSS9guLrRbk4/giphy.gif" />
+ <img align="center" src="https://media.giphy.com/media/jQWNZu6tNWOTGAu2Pv/giphy.gif" />
 
  </h5>
 
