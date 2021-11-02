@@ -31,11 +31,11 @@ I have long been interested in computers and coding and over the years have buil
 &#x1f4c8; My GitHub Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
- <img align="center" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheBenGregory&hide=java,scss&theme=radical" />
+ <img align="center" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheBenGregory&hide=java,scss&theme=ocean_dark" />
  </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">       
-<img align="right" height="200" src="https://github-readme-stats.vercel.app/api?username=TheBenGregory&theme=radical" /> 
+<img align="right" height="200" src="https://github-readme-stats.vercel.app/api?username=TheBenGregory&theme=ocean_dark" /> 
 </a> 
 
 ---      
