@@ -14,7 +14,9 @@
 
 <p align="left">I am a full-stack developer enrolled in Nashville Software School Cohort #50 and have been building my skills in JavaScript, React, and HTML. I am currently completing a Python and Django bootcamp. I live in Middle TN and enjoy being outdoors, hiking, and exploring national parks.
 
-I have long been interested in computers and coding and over the years have built a handful of webpages for myself. In my free time I tinker with my 3d printer and work on personal dev projects.</p>
+I have long been interested in computers and coding and over the years have built a handful of webpages for myself. In my free time I tinker with my 3d printer and work on personal dev projects.
+
+I am currently learning about automated testing, virtual machine operation, and cloud computing.</p>
 
 ---
 
