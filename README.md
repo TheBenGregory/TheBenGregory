@@ -12,11 +12,13 @@
 <!-- [![Linkedin](https://img.shields.io/linkedin) LinkedIn](https://www.linkedin.com/BGMakesItHappen) -->
 
 
-<p align="left">I am a full-stack developer enrolled in Nashville Software School Cohort #50 and have been building my skills in JavaScript, React, and HTML. I am a graduate of the Nashville Software School Full-Stack/Python and Django bootcamp. I live in Middle TN and enjoy being outdoors, hiking, and exploring national parks.
+<p align="left">I am a full-stack developer and graduate of Nashville Software School's Full-Stack Python and Django bootcamp (Cohort #50), with over four years of hands-on experience building, deploying, and maintenancing on-premise, VM, and cloud machines for SaaS companies. 
+ 
+My experience spans JavaScript, React, HTML/CSS, Python, Django, RESTful APIs, SQL, and tools like Jira, Confluence, and PowerBI. I've honed my skills in SaaS integrations, data migrations, and customer-facing troubleshooting at companies like Imprivata, while contributing to Linux-based products and leading process improvements using Lean principles.
 
-I have long been interested in computers and coding and over the years have built a handful of webpages for myself. In my free time I tinker with my 3d printer and work on personal dev projects.
+A lifelong tinkerer, I've evolved from crafting personal webpages to developing full apps. In my downtime, I still geek out over my 3D printer for custom prototypes and dive into personal dev experiments that blend code with real-world utility.
 
-I am currently learning about automated testing, virtual machine operation, and cloud computing.</p>
+Currently, I'm deepening my DevOps toolkit with Kubernetes orchestration, Ansible automation, and advanced cloud computing on platforms like AWS, alongside refining automated testing strategies to build more resilient systems. Always up for collaborating on innovative projects that make tech more accessible and efficient.</p>
 
 ---
 
