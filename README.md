@@ -34,9 +34,6 @@ src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343
 
 ---
 <br><br>
-
-## &#x1f4c8; My GitHub Stats
-
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
  <img align="center" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheBenGregory&hide=html,java,scss&theme=ocean_dark" />
  </a>
