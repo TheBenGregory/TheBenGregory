@@ -30,10 +30,8 @@ src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343
 <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/django/django-original.svg" width="50" height="50"/>
 </div>
 
----
 
----
-<br><br>
+
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
  <img align="center" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheBenGregory&hide=html,java,scss&theme=ocean_dark" />
  </a>
