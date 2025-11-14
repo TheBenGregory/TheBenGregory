@@ -24,10 +24,17 @@ Currently, I'm deepening my DevOps toolkit with Kubernetes orchestration, Ansibl
 
 ## 🧰 Toolbox
 <div>
-<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/react/react-original-wordmark.svg" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/javascript/javascript-original.svg" width="50" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/html5/html5-original-wordmark.svg" width="50" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/css3/css3-original.svg" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/git/git-original.svg" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/github/github-original.svg" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp; <img
-src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/linux/linux-original.svg"  width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/python/python-original.svg" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/django/django-original.svg" width="50" height="50"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/react/react-original-wordmark.svg" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp; 
+ <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/javascript/javascript-original.svg" width="50" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp; 
+ <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/html5/html5-original-wordmark.svg" width="50" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp;
+ <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/css3/css3-original.svg" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp; 
+ <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/git/git-original.svg" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp; 
+ <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/github/github-original.svg" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp; 
+ <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/linux/linux-original.svg"  width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;
+ <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/python/python-original.svg" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;
+ <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/django/django-original.svg" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-plain.svg" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
 
